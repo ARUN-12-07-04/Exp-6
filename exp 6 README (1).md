@@ -1,4 +1,4 @@
-# Experiment 10: ARIMA Model for Forecasting
+# Experiment 6: ARIMA Model for Forecasting
 
 ## Aim
 
@@ -13,3 +13,15 @@ To evaluate predictive models using performance metrics.
 5.  Forecast future periods and plot the results.
 6.  Evaluate forecast accuracy.
 7.  **STOP**
+
+
+
+## Program
+
+
+
+## Output
+
+
+
+## Result
